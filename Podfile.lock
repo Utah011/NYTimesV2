@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Kingfisher (6.1.0)
+  - PinLayout (1.9.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - PinLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - PinLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Kingfisher: f5d8d60a0ef3edd642fd781bae60918599901aff
+  PinLayout: 4d8733121f8687edcc8f00c19bf1379d12808767
+
+PODFILE CHECKSUM: 0e275b9c5f0625739aa02fb7baf53e4a0f634d1d
+
+COCOAPODS: 1.10.1
